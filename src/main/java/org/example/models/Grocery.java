@@ -75,8 +75,6 @@ public class Grocery {
                 String removingElements = scanner.nextLine();
                 removeItems(removingElements);
 
-
-
             }
             else if(inputValue.equals("0")){
                 System.out.println("Uygulama '0' girdisinden dolayı durduruluyor.");
